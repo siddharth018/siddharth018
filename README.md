@@ -4,7 +4,7 @@ I'm a **Full Stack Engineer** based in India ☀️, working at [Kreativ Street]
 
 Aside from coding I enjoy writing technical things [at my blog](https://realprogrammer.in) ✍️
 
-Connect with youtube. [Youtube](Join in youtube] (https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber)
+Connect with youtube. [Youtube] (https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber)
 
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=siddharthr0318">
