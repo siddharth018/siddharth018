@@ -22,6 +22,12 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
 <br />
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" alt="python" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-plain.svg" alt="nodejs" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain.svg" alt="laravel" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/django/django-plain.svg" alt="django" height="50"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-plain.svg" alt="mysql" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"  alt="linux" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="50"/>
@@ -30,12 +36,5 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original-wordmark.svg" alt="debian" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" alt="python" height="50"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nodejs/nodejs-plain.svg" alt="nodejs" height="50"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/laravel/laravel-plain.svg" alt="laravel" height="50"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/django/django-plain.svg" alt="django" height="50"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-plain.svg" alt="mysql" height="50"/>
-  </p>
 
-<br />
+  </p><br />
