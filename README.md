@@ -17,23 +17,26 @@ Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9
 </p>
 
 ### Languages, Frameworks and Tools I use and I have worked with:
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
-![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
-<br>
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
-<br>
-![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-111111?style=flat-square&logo=jupyter)
-![Android Studio](https://img.shields.io/badge/-Android-111111?style=flat-square&logo=android)
-![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku)
+**Languages and Tools:**
+
+<br />
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg"  alt="windows" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"  alt="linux" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="github" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original-wordmark.svg" alt="debian" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/vagrant/vagrant-original-wordmark.svg" alt="vagrant" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/>
+  </p>
+
+<br />
