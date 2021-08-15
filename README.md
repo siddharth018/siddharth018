@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Engineer** based in India ☀️, working at [Kreativ Street](https://kreativstreet.com/). I'm a coding passionate focused on **Python**, specifically **Laravel** & **Django**. Interested in Coding, tech **OpenSource** and **Youtube** ❤️ ❤️
 
-Aside from coding I enjoy writing technical things [at my blog](https://realprogrammer.in) ✍️
+Aside from coding I enjoy writing technical things [at my blog](https://therealprogrammer.com/) ✍️
 
 Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber)
 
